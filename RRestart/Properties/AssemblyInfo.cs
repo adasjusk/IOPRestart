@@ -1,0 +1,33 @@
+﻿using System.Reflection;
+using System.Runtime.CompilerServices;
+using System.Runtime.InteropServices;
+
+// General Information about an assembly is controlled through the following
+// set of attributes. Change these attribute values to modify the information
+// associated with an assembly.
+[assembly: AssemblyTitle("PRestart")]
+[assembly: AssemblyDescription("Forcefuly restarts server and detects people")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("Oranges")]
+[assembly: AssemblyProduct("RRestart")]
+[assembly: AssemblyCopyright("Copyright © adasjusk 2025")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
+
+// Setting ComVisible to false makes the types in this assembly not visible
+// to COM components.  If you need to access a type in this assembly from
+// COM, set the ComVisible attribute to true on that type.
+[assembly: ComVisible(false)]
+
+// The following GUID is for the ID of the typelib if this project is exposed to COM
+[assembly: Guid("d5fe00d2-bb2f-4aa1-89b8-0c916a695d16")]
+
+// Version information for an assembly consists of the following four values:
+//
+//      Major Version
+//      Minor Version
+//      Build Number
+//      Revision
+//
+[assembly: AssemblyVersion("1.0.0.0")]
+[assembly: AssemblyFileVersion("1.0.0.0")]
